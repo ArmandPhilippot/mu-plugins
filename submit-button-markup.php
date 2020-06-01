@@ -31,7 +31,7 @@
  */
 
 function apmu_muload_textdomain() {
-	load_muplugin_textdomain( 'APMU', basename( dirname( __FILE__ ) ) . '/languages/' );
+	load_muplugin_textdomain( 'APMU', 'languages' );
 }
 add_action( 'muplugins_loaded', 'apmu_muload_textdomain' );
 
