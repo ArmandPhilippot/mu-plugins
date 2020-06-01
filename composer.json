@@ -1,0 +1,20 @@
+{
+  "name": "armandphilippot/mu-plugins",
+  "description": "MU Plugins for WordPress.",
+  "keywords": [
+    "WordPress", "mu-plugins"
+  ],
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "Armand Philippot",
+    "homepage": "https://www.armandphilippot.com/",
+    "email": "contact@armandphilippot.com"
+  }],
+  "support": {
+    "issues": "https://github.com/ArmandPhilippot/mu-plugins/issues",
+    "source": "https://github.com/ArmandPhilippot/mu-plugins"
+  },
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
